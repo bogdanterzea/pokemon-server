@@ -1,0 +1,23 @@
+{
+    "photos": [
+        {
+            "id": 1,
+            "title": "Bulbasaur",
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+            "image_1080_url": "https://www.pockettactics.com/wp-content/uploads/2022/02/bulbasaur-asmr.jpg",
+            "description": "Bulbasaur made its video game debut on February 27, 1996, in the Japanese-language games Pocket Monsters Red and Green. Along with Charmander and Squirtle, Bulbasaur is a starter Pokémon the player can choose from at the beginning of the games."
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "title": "Jason Paul - Germany",
+            "poster": "https://cdn.shopify.com/s/files/1/1104/2314/files/Jason_Paul_Parkour_Freerunning_Bangkok_Thailand_Bio_Interview_Team_Farang_Clothing_2.jpg",
+            "stream": {
+                "url": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+                "format": "hls"
+            },
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ]
+}
