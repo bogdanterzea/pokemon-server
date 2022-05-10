@@ -6,6 +6,48 @@
             "url": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
             "image_1080_url": "https://www.pockettactics.com/wp-content/uploads/2022/02/bulbasaur-asmr.jpg",
             "description": "Bulbasaur made its video game debut on February 27, 1996, in the Japanese-language games Pocket Monsters Red and Green. Along with Charmander and Squirtle, Bulbasaur is a starter Pokémon the player can choose from at the beginning of the games."
+        },
+        {
+            "id": 2,
+            "title": "Charizard",
+            "url": "https://img.pokemondb.net/artwork/charizard.jpg",
+            "image_1080_url": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2021/05/EitJnbZXkAAvp2T-1-copy-88-2.jpg",
+            "description": "Charizard was designed by Atsuko Nishida for the first generation of Pocket Monsters games Red and Green, which were localized outside Japan as Pokémon Red and Blue. Charizard was designed before Charmander, the latter being actually based on the former. Originally called `Lizardon` in Japanese, Nintendo decided to give the various Pokémon species `clever and descriptive names` related to their appearance or features when translating the game for western audiences as a means to make the characters more relatable to American children."
+        },
+        {
+            "id": 3,
+            "title": "Squirtle",
+            "url": "https://img.pokemondb.net/artwork/squirtle.jpg",
+            "image_1080_url": "https://www.cheatsheet.com/wp-content/uploads/2022/01/pokemon-first-movie-1200x856.jpg",
+            "description": "Squirtle, known as the Tiny Turtle Pokémon, are turtle Pokémon with large eyes and chubby cheeks, capable of moving either on two feet or on all fours. Their skin is a light blue, and they possess a long, curled tail. When feeling threatened, Squirtle withdraw their limbs into their brown-orange shells and spray water from their mouth with great force, either to attack their opponent or merely to intimidate it."
+        },
+        {
+            "id": 4,
+            "title": "Pikachu",
+            "url": "https://img.pokemondb.net/artwork/pikachu.jpg",
+            "image_1080_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/01/Pokemon-Ash-Pikachu.jpg",
+            "description": "Pikachu is a fictional species in the Pokémon media franchise. Designed by Atsuko Nishida and Ken Sugimori, Pikachu first appeared in the 1996 Japanese video games Pokémon Red and Green created by Game Freak and Nintendo, which were released outside of Japan in 1998 as Pokémon Red and Blue. Pikachu is a yellow, mouse-like creature with electrical abilities."
+        },
+        {
+            "id": 5,
+            "title": "Psyduck",
+            "url": "https://img.pokemondb.net/artwork/psyduck.jpg",
+            "image_1080_url": "https://www.syfy.com/sites/syfy/files/2019/05/rev-1-pdp-fp-048_high_res_jpeg.jpeg",
+            "description": "Psyduck, known as Koduck (コダック, Kodakku) in Japan, is a Pokémon species in Nintendo and Game Freak's Pokémon franchise. Created by Ken Sugimori, Psyduck first appeared in the video games Pokémon Red and Blue and later in sequels. They have later appeared in various merchandise, spinoff titles and animated and printed adaptations of the franchise."
+        },
+        {
+            "id": 6,
+            "title": "Arcanine",
+            "url": "https://img.pokemondb.net/artwork/arcanine.jpg",
+            "image_1080_url": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/10/Growlithe-and-Arcanine-Sword--Shield.jpg",
+            "description": "Arcanine is a fan-favourite Pokémon and among the strongest non-legendary Pokémon and has been described as having `the mane of a lion ... the stripes of a tiger and the speed of a panther`."
+        },
+        {
+            "id": 7,
+            "title": "Alakazam",
+            "url": "",
+            "image_1080_url": "https://static.wikia.nocookie.net/pokemon/images/7/7c/Gurkinn_Alakazam.png/revision/latest?cb=20211022162203",
+            "description": "Due to its brain drastically growing, causing its head to be too heavy, it actually uses its psychic power to hold its head up. Its 5000 IQ makes it a very intelligent Pokémon. It can affect nearby technology using its brainwaves. Kadabra and Alakazam were the direct counters to the Gastly line of Ghost-type Pokémon after they were turned into dual types with Poison-type. Throughout the series, the Abra and Gastly lines were considered rivals."
         }
     ],
     "videos": [
