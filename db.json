@@ -1,4 +1,5 @@
 {
+    "description": "This database contains data from https://pokemondb.net/pokedex/all but not all the pokemons will be available.",
     "photos": [
         {
             "id": 1,
