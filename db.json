@@ -56,10 +56,10 @@
     "videos": [
         {
             "id": 1,
-            "title": "Live Akamai",
+            "title": "Big Buck Bunny",
             "poster": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
             "stream": {
-                "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+                "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
                 "format": "hls"
             },
             "description": "Big Buck Bunny (code-named Project Peach) is a 2008 short computer-animated comedy film featuring animals of the forest, made by the Blender Institute, part of the Blender Foundation. Like the foundation's previous film, Elephants Dream, the film was made using Blender, a free and open-source software application for 3D computer modeling and animation developed by the same foundation."
